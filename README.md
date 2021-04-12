@@ -1,8 +1,7 @@
-## Project title
-sequelize story teller
-If you want to build a webpage using sequelize follow my easy to follow story
+## Story Teller
+Building a webpage using my sql
 ## Motivation
-I wanted to use more javascript instead of mysql to build my database.
+Wanted to take dynamic approach to build a webapage using sequilize with information the user inputs.
 ## Screenshots
 
 <img src="sequelize-pic.jpg" alt="sequelize" width="500" height="200">
