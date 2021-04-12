@@ -1,7 +1,7 @@
 ## Story Teller
-Building a webpage using my sql
+Building a webpage using sequelize
 ## Motivation
-Wanted to take dynamic approach to build a webapage using sequilize with information the user inputs.
+Wanted to take dynamic approach to build a webpage using sequelize with information the user inputs.
 ## Screenshots
 
 <img src="sequelize-pic.jpg" alt="sequelize" width="500" height="200">
